@@ -13,7 +13,7 @@ During my academic journey, I have gained extensive hands-on experience in data 
 <br> :dizzy: Technical Skills: AWS, Tableau, Microsoft Excel, Microsoft Project
 <br> :dizzy: Soft Skills: Problem-Solving, Communication, Teamwork
 
-### Some hobbies :space_invader:
+### Some Hobbies :space_invader:
 :sunny: Gaming: When I'm not working on data projects, you can often find me playing my favorite video games. I enjoy the challenge of problem-solving in a game world, and I find it to be a great way to exercise my strategic thinking skills.
 <br> :sunny: Cooking: I enjoy experimenting with new recipes and flavors, and I find the process of preparing a meal to be a great way to unwind and destress. I also enjoy eating them!
 <br> :sunny: Data: As a data science student, I have a deep interest in exploring and analyzing data. I enjoy discovering new patterns and insights, and I am constantly seeking out new ways to improve my skills in this area.
