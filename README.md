@@ -3,9 +3,9 @@ A data science enthusiast currently pursuing a degree in Data Science with a con
 
 During my academic journey, I have gained extensive hands-on experience in data analysis, machine learning, and data visualization, among other key areas of data science. I am always eager to explore new technology and methods to enhance my skills and stay up-to-date with the latest advancements in the field. My dedication to achieving excellence and making a difference through data-driven solutions is what sets me apart. 
 
-### Currently Cooking Up..
+### Currently Cooking Up.. 👩‍🍳
 :cloud: Setting up a portfolio website on GitHub! 
-<br> :cloud: Fixing some projects that I currenly have!
+<br> :cloud: Fixing some projects that I currenly have and uploading more!
 <br> :cloud: Finding a new project to work on!
 
 ### Some Skills I Have :star2:
