@@ -21,5 +21,6 @@ During my academic journey, I have gained extensive hands-on experience in data 
 ### Contact Me! 📧
 If you're interested in connecting, I'd love to hear from you! Feel free to reach out to me via carrier pigeon 🐦, smoke signals 💨, or the traditional methods.
 Send me a message! 
+<br> 🌙 [My Resume](https://slie9.github.io/resume/)
 <br> :crescent_moon: [Email](mailto:SydLie.19@gmail.com)
 <br> :crescent_moon: [LinkedIn](https://www.linkedin.com/in/sydney-lieske/)
