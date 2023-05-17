@@ -1,5 +1,5 @@
 ## Hello, I'm Sydney <img src = https://github.com/slie9/images/blob/main/green.gif width="50" height="40" />
-I'm a senior currently pursuing a degree in Data Science with a concentration in Intelligent Mobility from Florida Polytechnic University. I have a keen interest in big data and its applications in creating smart cities that are more efficient, sustainable and livable. My passion lies in utilizing data-driven insights to bring about positive change and innovation in the world.
+I'm a recent graduate with a B.S in Data Science with a concentration in Intelligent Mobility from Florida Polytechnic University. I have a keen interest in big data and its applications in creating smart cities that are more efficient, sustainable and livable. My passion lies in utilizing data-driven insights to bring about positive change and innovation in the world.
 
 During my academic journey, I have gained hands-on experience in data analysis, machine learning, and data visualization, among other key areas of data science. I am always eager to explore new technology and methods to enhance my skills and stay up-to-date with the latest advancements in the field. My dedication to achieving excellence and making a difference through data-driven solutions is what sets me apart. 
 
