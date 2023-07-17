@@ -20,7 +20,6 @@ During my academic journey, I have gained hands-on experience in data analysis, 
 <br> :sunny: Data: As a data science student, I have a deep interest in exploring and analyzing data. I enjoy discovering new patterns and insights, and I am constantly seeking out new ways to improve my skills in this area.
 
 ### Contact Me! 📧
-🌟 On the brink of graduation, and excited to connect with others who share my passion for all things data!💻🌎
 <br> 🌙 [My Resume](https://slie9.github.io/resume/)
 <br> :crescent_moon: [Email](mailto:SydLie.19@gmail.com)
 <br> :crescent_moon: [LinkedIn](https://www.linkedin.com/in/sydney-lieske/)
